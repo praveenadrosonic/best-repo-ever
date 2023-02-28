@@ -4,4 +4,8 @@
 # great work 
 # I like the commit ... 
 # Prime 
+<<<<<<< HEAD
+# Grime 
+=======
 # lone
+>>>>>>> origin/main
